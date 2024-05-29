@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="testim_mvvm.Views.EmployeeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:vm="clr-namespace:testim_mvvm.ViewModels"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="406.4">
+    <Grid>
+        <Button Content="Назад" Command="{Binding BackCommand}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75"/>
+        <ListView ItemsSource="{Binding Deceaseds}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" DisplayMemberBinding="{Binding Id}" Width="50"/>
+                    <GridViewColumn Header="Полное имя" DisplayMemberBinding="{Binding FullName}" Width="150"/>
+                    <GridViewColumn Header="Дата смерти" DisplayMemberBinding="{Binding DateOfDeath}" Width="100"/>
+                    <GridViewColumn Header="Причина смерти" DisplayMemberBinding="{Binding CauseOfDeath}" Width="100"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,135,0,0">
+            <TextBox Width="200" Margin="0,10" Text="{Binding FullName, UpdateSourceTrigger=PropertyChanged}"/>
+            <DatePicker Width="200" Margin="0,10" SelectedDate="{Binding DateOfDeath, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBox Width="200" Margin="0,10" Text="{Binding CauseOfDeath, UpdateSourceTrigger=PropertyChanged}" />
+            <Button Content="Добавить умершего" Command="{Binding AddDeceasedCommand}" Width="150" />
+        </StackPanel>
+
+        <Button Content="Выйти" Command="{Binding LogoutCommand}"  VerticalAlignment="Bottom" Width="75"/>
+    </Grid>
+</UserControl>

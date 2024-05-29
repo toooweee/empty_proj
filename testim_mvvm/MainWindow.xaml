@@ -1,0 +1,24 @@
+﻿<Window x:Class="testim_mvvm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:testim_mvvm.ViewModels"
+        xmlns:v="clr-namespace:testim_mvvm.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type vm:LoginViewModel}">
+            <v:LoginView />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:EmployeeViewModel}">
+            <v:EmployeeView />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:AdminViewModel}">
+            <v:AdminView />
+        </DataTemplate>
+    </Window.Resources>
+    <Grid>
+        <ContentControl Content="{Binding CurrentViewModel}" />
+    </Grid>
+</Window>

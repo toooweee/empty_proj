@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Трупик 1",
+    "DateOfDeath": "2020-01-01T00:00:00",
+    "CauseOfDeath": "Естественная смерть"
+  },
+  {
+    "Id": 2,
+    "FullName": "Трупик 2",
+    "DateOfDeath": "2021-05-15T00:00:00",
+    "CauseOfDeath": "Насильственная смерть"
+  },
+  {
+    "Id": 3,
+    "FullName": "трупик 3",
+    "DateOfDeath": "2007-01-01T00:00:00",
+    "CauseOfDeath": "ниняю"
+  },
+  {
+    "Id": 4,
+    "FullName": "трупик 4",
+    "DateOfDeath": "2001-01-18T00:00:00",
+    "CauseOfDeath": "ниняю"
+  },
+  {
+    "Id": 5,
+    "FullName": "трупик5",
+    "DateOfDeath": "2008-01-01T00:00:00",
+    "CauseOfDeath": "ирупмк 5"
+  }
+]

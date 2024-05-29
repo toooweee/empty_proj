@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\models\\deceased.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\models\\deceased.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\views\\adminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\views\\adminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\views\\adminview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\views\\adminview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|c:\\users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\services\\jsondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\services\\jsondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|c:\\users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\testim_mvvm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\testim_mvvm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\views\\employeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\views\\employeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\views\\employeeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\views\\employeeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CEFAB3-CE34-43AE-937D-59037E881D50}|testim_mvvm\\testim_mvvm.csproj|solutionrelative:testim_mvvm\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\App.xaml.cs",
+              "RelativeDocumentMoniker": "testim_mvvm\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\App.xaml.cs",
+              "RelativeToolTip": "testim_mvvm\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:56:56.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\ViewModels\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "testim_mvvm\\ViewModels\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\ViewModels\\AdminViewModel.cs",
+              "RelativeToolTip": "testim_mvvm\\ViewModels\\AdminViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:33:15.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminView.xaml",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Views\\AdminView.xaml",
+              "RelativeDocumentMoniker": "testim_mvvm\\Views\\AdminView.xaml",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Views\\AdminView.xaml",
+              "RelativeToolTip": "testim_mvvm\\Views\\AdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T09:34:52.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Views\\AdminView.xaml.cs",
+              "RelativeDocumentMoniker": "testim_mvvm\\Views\\AdminView.xaml.cs",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Views\\AdminView.xaml.cs",
+              "RelativeToolTip": "testim_mvvm\\Views\\AdminView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:53:38.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "testim_mvvm\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "testim_mvvm\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:34:26.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "testim_mvvm\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "testim_mvvm\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:34:00.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "testim_mvvm\\ViewModels\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeToolTip": "testim_mvvm\\ViewModels\\EmployeeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:34:17.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deceased.cs",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Models\\Deceased.cs",
+              "RelativeDocumentMoniker": "testim_mvvm\\Models\\Deceased.cs",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Models\\Deceased.cs",
+              "RelativeToolTip": "testim_mvvm\\Models\\Deceased.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:29:25.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Models\\User.cs",
+              "RelativeDocumentMoniker": "testim_mvvm\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Models\\User.cs",
+              "RelativeToolTip": "testim_mvvm\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:28:30.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\App.xaml",
+              "RelativeDocumentMoniker": "testim_mvvm\\App.xaml",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\App.xaml",
+              "RelativeToolTip": "testim_mvvm\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T09:56:27.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "testim_mvvm\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\MainWindow.xaml.cs",
+              "RelativeToolTip": "testim_mvvm\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:24:26.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "testim_mvvm\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\MainWindow.xaml",
+              "RelativeToolTip": "testim_mvvm\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T09:24:26.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "testim_mvvm\\Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Services\\DataService.cs",
+              "RelativeToolTip": "testim_mvvm\\Services\\DataService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvysAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:20:19.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JsonDataService.cs",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Services\\JsonDataService.cs",
+              "RelativeDocumentMoniker": "testim_mvvm\\Services\\JsonDataService.cs",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Services\\JsonDataService.cs",
+              "RelativeToolTip": "testim_mvvm\\Services\\JsonDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:30:09.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "testim_mvvm\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "testim_mvvm\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:35:25.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "testim_mvvm\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "testim_mvvm\\Views\\LoginView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:51:18.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeView.xaml",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Views\\EmployeeView.xaml",
+              "RelativeDocumentMoniker": "testim_mvvm\\Views\\EmployeeView.xaml",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Views\\EmployeeView.xaml",
+              "RelativeToolTip": "testim_mvvm\\Views\\EmployeeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T09:35:04.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "testim_mvvm\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Views\\LoginView.xaml",
+              "RelativeToolTip": "testim_mvvm\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T09:35:12.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Views\\EmployeeView.xaml.cs",
+              "RelativeDocumentMoniker": "testim_mvvm\\Views\\EmployeeView.xaml.cs",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\Views\\EmployeeView.xaml.cs",
+              "RelativeToolTip": "testim_mvvm\\Views\\EmployeeView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:55:11.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "testim_mvvm.csproj",
+              "DocumentMoniker": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\testim_mvvm.csproj",
+              "RelativeDocumentMoniker": "testim_mvvm\\testim_mvvm.csproj",
+              "ToolTip": "C:\\Users\\toowee\\source\\repos\\testim_mvvm\\testim_mvvm\\testim_mvvm.csproj",
+              "RelativeToolTip": "testim_mvvm\\testim_mvvm.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-28T09:27:49.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
